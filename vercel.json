@@ -1,0 +1,13 @@
+{
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "installCommand": "npm ci",
+  "git": {
+    "deploymentEnabled": {
+      "preview": true,
+      "production": true
+    }
+  }
+}
+
